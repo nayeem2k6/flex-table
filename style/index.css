@@ -1,0 +1,12 @@
+.parent{
+    
+    background-color: aqua;
+    display: block
+}
+.child{
+border: 2px solid rgb(red, green, blue);
+background-color: aquamarine;
+font-size: 18px;
+margin: 10px;
+display: inline;
+}
